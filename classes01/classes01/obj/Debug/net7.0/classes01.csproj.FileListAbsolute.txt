@@ -1,0 +1,15 @@
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\bin\Debug\net7.0\classes01.exe
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\bin\Debug\net7.0\classes01.deps.json
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\bin\Debug\net7.0\classes01.runtimeconfig.json
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\bin\Debug\net7.0\classes01.dll
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\bin\Debug\net7.0\classes01.pdb
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.csproj.AssemblyReference.cache
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.AssemblyInfoInputs.cache
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.AssemblyInfo.cs
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.csproj.CoreCompileInputs.cache
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.dll
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\refint\classes01.dll
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.pdb
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\classes01.genruntimeconfig.cache
+C:\Users\davey\Documents\ma\flex\code\c-2\classes01\classes01\obj\Debug\net7.0\ref\classes01.dll
