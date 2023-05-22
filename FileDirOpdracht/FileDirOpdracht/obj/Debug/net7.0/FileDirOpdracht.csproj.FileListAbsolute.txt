@@ -1,0 +1,15 @@
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.exe
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.deps.json
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.runtimeconfig.json
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.AssemblyReference.cache
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfoInputs.cache
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfo.cs
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\refint\FileDirOpdracht.dll
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.genruntimeconfig.cache
+C:\Users\davey\Documents\ma\progameren\programeren2\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\ref\FileDirOpdracht.dll
